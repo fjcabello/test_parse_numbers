@@ -3,7 +3,7 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_BUILD_TYPE Debug)
 
-project(exercise)
+project(verbio_test)
 
 # Prepare "Catch" library for other executables
 find_package(Catch2 REQUIRED)

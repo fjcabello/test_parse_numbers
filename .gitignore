@@ -1,0 +1,6 @@
+CMakeFiles
+*.cmake
+CMakeCache.txt
+Makefile
+main_app
+test_app
